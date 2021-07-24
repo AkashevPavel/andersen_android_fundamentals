@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Основы Андроид</string>
+    <string name="greeting">Привет Костя Ляпочкин!</string>
+    <string name="button_toast">тост</string>
+    <string name="button_count">счёт</string>
+    <string name="next_btn">дальше</string>
+    <string name="button_zero">ноль</string>
+</resources>

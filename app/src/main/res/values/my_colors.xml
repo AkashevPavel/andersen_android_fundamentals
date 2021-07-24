@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="zero_after_click">#FFFF0000</color>
+    <color name="zero_default">#808080</color>
+    <color name="count_after_click">#cc018786</color>
+</resources>
